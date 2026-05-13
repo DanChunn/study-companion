@@ -36,7 +36,8 @@ MonoBehaviour:
     serializationDepthLimit: 64
     assemblyNames:
     - Assembly-CSharp
-    - Assembly-CSharp-firstpass
+    - FMODUnity
+    - FMODUnityResonance
     - Kybernetik.Animancer
     - Kybernetik.Animancer.FSM
     showAdvancedSettings: 0
