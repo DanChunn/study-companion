@@ -6,3 +6,5 @@ FMOD
 Text Animator for Unity 3
 VolFX
 Yarn Spinner+
+Fimpossible Creation's Look Animator
+Fimpossible Creation's Eyes Animator
