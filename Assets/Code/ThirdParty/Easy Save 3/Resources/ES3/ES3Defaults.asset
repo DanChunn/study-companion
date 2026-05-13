@@ -36,10 +36,17 @@ MonoBehaviour:
     serializationDepthLimit: 64
     assemblyNames:
     - Assembly-CSharp
+    - Febucci.Attributes.Runtime
+    - Febucci.TextAnimatorForUnity.Input.Runtime
+    - Febucci.TextAnimatorForUnity.Runtime
+    - Febucci.TextAnimatorForUnity.TMP.Runtime
+    - Febucci.TextAnimatorForUnity.UITk.Runtime
     - FMODUnity
     - FMODUnityResonance
     - Kybernetik.Animancer
     - Kybernetik.Animancer.FSM
+    - YarnSpinner.Addons.TextAnimatorIntegration
+    - YarnSpinner.Unity
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
