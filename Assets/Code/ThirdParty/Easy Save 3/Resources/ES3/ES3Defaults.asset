@@ -36,6 +36,9 @@ MonoBehaviour:
     serializationDepthLimit: 64
     assemblyNames:
     - Assembly-CSharp
+    - DOTween.Modules
+    - DOTweenPro.Scripts
+    - EasySave3
     - Febucci.Attributes.Runtime
     - Febucci.TextAnimatorForUnity.Input.Runtime
     - Febucci.TextAnimatorForUnity.Runtime
