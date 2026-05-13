@@ -104,4 +104,4 @@ fmod_editor.log
 /[Aa]ssets/Fonts/*SDF.asset*
 
 # Jetbrains
-.idea/**/indexLayout.xml
+.idea/
