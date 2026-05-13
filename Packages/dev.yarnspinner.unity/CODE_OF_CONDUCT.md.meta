@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cfcecef19b8f44c8a2e435d277c5a04
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267061
+  packageName: Yarn Spinner for Unity, the friendly dialogue and narrative tool
+  packageVersion: 3.2.2
+  assetPath: Packages/dev.yarnspinner.unity/CODE_OF_CONDUCT.md
+  uploadId: 893636
