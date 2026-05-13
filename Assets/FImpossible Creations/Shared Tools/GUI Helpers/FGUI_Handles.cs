@@ -81,7 +81,7 @@ namespace FIMSpace.FEditor
             }
         }
 
-        public static void DrawBoneHandle( Vector3 from, Vector3 to, float fatness = 1f, bool faceCamera = false, float width = 1f, float arrowOffset = 1f, float lineWidth = 1f, float fillAlpha = 0f )
+        public static void DrawBoneHandle( Vector3 from, Vector3 to, float fatness = 1f, bool faceCamera = false, float width = 1f, float arrowOffset = 1f, float lineWidth = 2f, float fillAlpha = 0.35f )
         {
             Vector3 forw = ( to - from ).normalized;
 
