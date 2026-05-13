@@ -47,6 +47,7 @@ MonoBehaviour:
     - Kybernetik.Animancer.FSM
     - ScreenFx
     - Tools.Runtime
+    - VInspector
     - VolFx
     - YarnSpinner.Addons.TextAnimatorIntegration
     - YarnSpinner.Unity
